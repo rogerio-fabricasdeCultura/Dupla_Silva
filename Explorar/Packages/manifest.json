@@ -1,6 +1,10 @@
 {
   "dependencies": {
     "com.unity.collab-proxy": "2.5.2",
+<<<<<<< HEAD
+=======
+    "com.unity.ide.rider": "3.0.40",
+>>>>>>> 73d4c59960c3f145ddc345c076450ac503e94c1e
     "com.unity.ide.visualstudio": "2.0.22",
     "com.unity.ide.vscode": "1.2.5",
     "com.unity.render-pipelines.universal": "12.1.15",
