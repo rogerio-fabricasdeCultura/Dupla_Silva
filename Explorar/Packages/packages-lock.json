@@ -24,6 +24,8 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
+=======
     "com.unity.ide.rider": {
       "version": "3.0.40",
       "depth": 0,
@@ -33,6 +35,7 @@
       },
       "url": "https://packages.unity.com"
     },
+>>>>>>> 73d4c59960c3f145ddc345c076450ac503e94c1e
     "com.unity.ide.visualstudio": {
       "version": "2.0.22",
       "depth": 0,
